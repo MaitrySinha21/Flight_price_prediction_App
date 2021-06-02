@@ -1,6 +1,6 @@
 # Flight_price_prediction_App
 
-### It is a Machine-Learning model-based app trained using Xgboost algorithm made using OpenCV,Flask & HTML.
+### It is a Machine-Learning model-based app trained using Xgboost algorithm made using OpenCV,Flask & HTML.And Deployed on Heroku.
 
 
 ## This is the page where we need the choose the flight-details to get the predicted price...
@@ -48,8 +48,12 @@ wincertstore==0.2
 
 4) Now after creating & activating virtual enviorment install requirements.txt.. Command is-->
 
- # pip install -r requrements.txt
+ ### pip install -r requrements.txt
  
 5) Run app.py
+
+# Here is deployment link on Heroku :--
+
+https://flightprice-prediction-app.herokuapp.com/ 
 
 
